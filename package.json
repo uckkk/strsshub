@@ -171,7 +171,7 @@
         "@vitest/coverage-v8": "2.0.5",
         "discord-api-types": "0.37.103",
         "eslint": "9.13.0",
-        "eslint-config-prettier": "9.1.0",
+        "eslint-config-prettier": "10.0.1",
         "eslint-nibble": "8.1.0",
         "eslint-plugin-n": "17.12.0",
         "eslint-plugin-prettier": "5.2.1",
